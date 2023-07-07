@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vishal
-- 👀 I’m interested in developing appa and website that has a potential to change the world.
+- 👀 I’m interested in developing app and website that has a potential to change the world.
 - 🌱 I’m currently learning react frameworks
 - 📫 How to reach me ...my insta id @vishalt78
 
