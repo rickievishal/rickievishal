@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Vishal
-- 👀 I’m interested in developing app and website that has a potential to change the world.
-- 🌱 I’m currently learning react frameworks
-- 📫 How to reach me ...my insta id @vishalt78
+Just brewing some cool stuffs and making it open source then whats the point of building 
 
 <!---
 rickievishal/rickievishal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
