@@ -1,4 +1,4 @@
-Just brewing some cool stuffs and making it open source then whats the point of building 
+Just brewing some cool stuffs and making it open source.
 
 <!---
 rickievishal/rickievishal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
