@@ -8,25 +8,24 @@
 
 <pre>
 ──────────────────────────────────────────────
-🧠  System Information
+🧠  About Me 
 ──────────────────────────────────────────────
-OS: macOS / Linux / “whatever runs the code”
-Kernel: Curiosity v∞
-Uptime: always learning
-Packages: science, art, and some jokes
-Resolution: beyond your imagination
+Name: Vishal
+Education: Bachelor of Engineering - Electronics and Communication Engineering
+Year of Graduation: 2027
+Current Position: Looking for a Internship opportunity
 ──────────────────────────────────────────────
 </pre>
 
-### 🧩 Tech Stack
+### Tech Stack
 
-<p align="center">
+<p align="start">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,vercel,nodejs,express,mongodb,git,github,docker,matlab,vscode,c,cpp,python,arduino,vhdl" />
 </p>
 
 ---
 
-### ⚙️ Core Skills
+### Core Skills
 
 🧬 **Embedded Systems & Hardware Design:** ESP32, IR, Ultrasonic, RFID, Motor Drivers, Bluetooth Audio, SD interfacing  
 
