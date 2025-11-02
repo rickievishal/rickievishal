@@ -1,7 +1,11 @@
-<h1 align="center">👨🏾‍💻vishal.dmg</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=33F7DC&center=true&vCenter=true&width=600&lines=⚡+Science+%7C+🎨+Art+%7C+💻+Chaos;Building+circuits%2C+dreams%2C+and+code;Sometimes+science+is+more+art+than+science."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=ff003c&center=true&vCenter=true&width=800&lines=rickievishal.exe;Web+Development+Embedded+Systems;System+Design+%26+Deployment" alt="Rickievishal typing animation" />
+  
 </p>
+
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ff003c&center=true&vCenter=true&width=600&lines=⚡+Science+%7C+🎨+Art+%7C+💻+Chaos;Building+circuits%2C+dreams%2C+and+code;Sometimes+science+is+more+art+than+science."/>
+</p> -->
 
 
 ---
