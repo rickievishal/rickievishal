@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=ff003c&center=true&vCenter=true&width=800&lines=rickievishal.exe;Web+Development+Embedded+Systems;System+Design+%26+Deployment" alt="Rickievishal typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=ff003c&center=true&vCenter=true&width=800&lines=rickievishal.exe;Full+Stack+SWE;+Embedded+Systems;System+Design+%26+Deployment" alt="Rickievishal typing animation" />
   
 </p>
 
